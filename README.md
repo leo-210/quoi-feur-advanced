@@ -5,3 +5,6 @@ Un bot qui répond à tous les messages finissant par une syllabe par un mot com
 
 *this is a french joke, based on the famous "quoi" (what) "feur"
 ("quoi-feur" = "coiffeur" (hairdresser)), and all words are french (I think... x))*
+
+## Word database
+http://www.lexique.org/
